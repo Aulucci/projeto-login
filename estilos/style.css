@@ -57,3 +57,8 @@ div#form{
     display: block;
     padding: 10px;
 }
+
+div#form > h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
